@@ -4,16 +4,16 @@
  */
 
 export const siteConfig = {
-  "id": "elettricista-padova-it",
-  "name": "Elettricista Padova",
-  "domain": "elettricista-padova.it",
+  "id": "elettricista-parma-it",
+  "name": "Elettricista Parma",
+  "domain": "elettricista-parma.it",
   "serviceType": "electrician",
   "serviceName": "Elettricista",
-  "businessName": "Elettricista Padova 24/7",
-  "description": "Servizio elettricista a Padova disponibile 24 ore su 24, 7 giorni su 7. Tecnici qualificati per emergenze elettriche, riparazioni e installazioni in tutta Padova e provincia.",
-  "phone": "+39 049 123 4567",
-  "email": "info@elettricista-padova.it",
-  "address": "Via Esempio 123, 35100 Padova PD",
+  "businessName": "Elettricista Parma 24/7",
+  "description": "Servizio elettricista a Parma disponibile 24 ore su 24, 7 giorni su 7. Tecnici qualificati per emergenze elettriche, riparazioni e installazioni in tutta Parma e provincia.",
+  "phone": "+39 0521 123 4567",
+  "email": "info@elettricista-parma.it",
+  "address": "Via Esempio 123, 43121 Parma PR",
   "logo": "/logo.png",
   "primaryColor": "#0066CC",
   "secondaryColor": "#FFA500",
@@ -29,23 +29,23 @@ export const siteConfig = {
   ],
   "serviceArea": {
     "regions": [
-      "Veneto"
+      "Emilia-Romagna"
     ],
     "provinces": [
-      "PD"
+      "PR"
     ],
-    "city": "Padova",
+    "city": "Parma",
     "neighborhoods": [
       "Centro Storico",
-      "Arcella",
-      "Voltabarozzo",
-      "Guizza",
-      "Sacra Famiglia",
-      "San Giuseppe",
-      "Stanga",
-      "Prato della Valle"
+      "Oltretorrente",
+      "Pablo",
+      "San Leonardo",
+      "Parma Centro",
+      "Cittadella",
+      "Montanara",
+      "Vigatto"
     ],
-    "notes": "Servizio in tutta Padova e provincia"
+    "notes": "Servizio in tutta Parma e provincia"
   },
   "openingHours": {
     "monday": "24 ore",
@@ -63,20 +63,20 @@ export const siteConfig = {
     "tone": "Professional, trustworthy"
   },
   "socialMedia": {
-    "facebook": "https://facebook.com/elettricista-padova",
-    "instagram": "https://instagram.com/elettricista-padova"
+    "facebook": "https://facebook.com/elettricista-parma",
+    "instagram": "https://instagram.com/elettricista-parma"
   },
   "seo": {
-    "defaultTitle": "Elettricista Padova 24/7 | Pronto Intervento Elettrico",
-    "defaultDescription": "Elettricista a Padova disponibile 24h. Intervento rapido per emergenze elettriche, riparazioni, installazioni e certificazioni. Tecnici qualificati in tutta Padova e provincia.",
+    "defaultTitle": "Elettricista Parma 24/7 | Pronto Intervento Elettrico",
+    "defaultDescription": "Elettricista a Parma disponibile 24h. Intervento rapido per emergenze elettriche, riparazioni, installazioni e certificazioni. Tecnici qualificati in tutta Parma e provincia.",
     "keywords": [
-      "elettricista padova",
-      "pronto intervento elettricista padova",
-      "elettricista 24 ore padova",
-      "riparazione impianti elettrici padova",
+      "elettricista parma",
+      "pronto intervento elettricista parma",
+      "elettricista 24 ore parma",
+      "riparazione impianti elettrici parma",
       "installazione impianti elettrici",
-      "emergenza elettricista padova",
-      "elettricista urgente padova",
+      "emergenza elettricista parma",
+      "elettricista urgente parma",
       "certificazione impianti elettrici"
     ]
   },
@@ -85,28 +85,28 @@ export const siteConfig = {
   "schema": {
     "@context": "https://schema.org",
     "@type": "Electrician",
-    "name": "Elettricista Padova",
-    "description": "Professional elettricista services in Padova. Available 24/7 for emergencies.",
-    "image": "https://elettricista-padova.it/logo.png",
-    "logo": "https://elettricista-padova.it/favicon.svg",
-    "url": "https://elettricista-padova.it",
-    "telephone": "+39 123 456 7890",
-    "email": "info@elettricista-padova.it",
+    "name": "Elettricista Parma",
+    "description": "Professional elettricista services in Parma. Available 24/7 for emergencies.",
+    "image": "https://elettricista-parma.it/logo.png",
+    "logo": "https://elettricista-parma.it/favicon.svg",
+    "url": "https://elettricista-parma.it",
+    "telephone": "+39 0521 123 4567",
+    "email": "info@elettricista-parma.it",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Padova",
-      "addressRegion": "Padova",
+      "addressLocality": "Parma",
+      "addressRegion": "Parma",
       "addressCountry": "IT"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": "45.4064",
-      "longitude": "11.8768"
+      "latitude": "44.8015",
+      "longitude": "10.3279"
     },
     "areaServed": [
       {
         "@type": "City",
-        "name": "Padova"
+        "name": "Parma"
       }
     ],
     "priceRange": "€€",
