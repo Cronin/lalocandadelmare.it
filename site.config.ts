@@ -81,6 +81,62 @@ export const siteConfig = {
     ]
   },
   "whatsapp": "+393519898686"
+,
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Electrician",
+    "name": "Elettricista Padova",
+    "description": "Professional elettricista services in Padova. Available 24/7 for emergencies.",
+    "image": "https://elettricista-padova.it/logo.png",
+    "logo": "https://elettricista-padova.it/favicon.svg",
+    "url": "https://elettricista-padova.it",
+    "telephone": "+39 123 456 7890",
+    "email": "info@elettricista-padova.it",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Padova",
+      "addressRegion": "Padova",
+      "addressCountry": "IT"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "45.4064",
+      "longitude": "11.8768"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Padova"
+      }
+    ],
+    "priceRange": "€€",
+    "openingHours": "Mo-Su 00:00-24:00",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00",
+        "closes": "20:00"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Elettricista Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Elettricista Service",
+            "description": "Professional elettricista service"
+          }
+        }
+      ]
+    },
+    "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+    "currenciesAccepted": "EUR",
+    "availableLanguage": "Italian"
+  }
 };
 
 export default siteConfig;

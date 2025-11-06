@@ -111,7 +111,47 @@ export default function HomePage() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div
+
+      {/* Service Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "serviceType": "Elettricista",
+            "provider": {
+              "@type": "Electrician",
+              "name": "Elettricista Padova"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Padova"
+            }
+          })
+        }}
+      />
+
+      {/* BreadcrumbList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://elettricista-padova.it"
+              }
+            ]
+          })
+        }}
+      />
+ className="min-h-screen flex flex-col">
       {/* Structured Data */}
       <script
         type="application/ld+json"

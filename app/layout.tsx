@@ -52,6 +52,44 @@ export default function RootLayout({
         {children}
         <Analytics />
         <SpeedInsights />
+      
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Elettricista Padova",
+  "url": "https://elettricista-padova.it",
+  "logo": "https://elettricista-padova.it/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+39 123 456 7890",
+    "contactType": "customer service",
+    "areaServed": "IT",
+    "availableLanguage": [
+      "it"
+    ]
+  }
+})
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://elettricista-padova.it",
+  "name": "Elettricista Padova",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://elettricista-padova.it/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+})
+          }}
+        />
       </body>
     </html>
   );
