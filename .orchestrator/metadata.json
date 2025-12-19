@@ -1,14 +1,14 @@
 {
   "domain": "elettricista-padova.it",
   "property_url": "https://elettricista-padova.it/",
-  "last_updated": "2025-12-19T08:00:36.979820",
+  "last_updated": "2025-12-20T00:00:36.217069",
   "gsc_account": "",
   "language": "",
   "service_type": "",
   "data_ranges": {
     "primary": {
-      "start": "2024-08-25",
-      "end": "2025-12-18",
+      "start": "2024-08-26",
+      "end": "2025-12-19",
       "days": 480
     }
   }

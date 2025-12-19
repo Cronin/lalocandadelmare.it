@@ -1906,6 +1906,13 @@
   {
     "date": "2025-12-18",
     "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 65
+  },
+  {
+    "date": "2025-12-19",
+    "clicks": 0,
     "impressions": 0,
     "ctr": 0,
     "position": 0
