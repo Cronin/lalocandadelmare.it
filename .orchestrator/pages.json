@@ -2,16 +2,30 @@
   {
     "page": "https://elettricista-padova.it/",
     "clicks": 2,
-    "impressions": 1545,
+    "impressions": 1574,
     "ctr": 0.13,
-    "position": 32.2
+    "position": 32.0
   },
   {
     "page": "https://elettricista-padova.it/blog",
     "clicks": 0,
-    "impressions": 2,
+    "impressions": 3,
     "ctr": 0,
-    "position": 37
+    "position": 25.3
+  },
+  {
+    "page": "https://elettricista-padova.it/blog/certificazione-impianti-elettrici-quando-obbligatoria",
+    "clicks": 0,
+    "impressions": 7,
+    "ctr": 0,
+    "position": 67.9
+  },
+  {
+    "page": "https://elettricista-padova.it/blog/come-riconoscere-emergenza-elettrica",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 3
   },
   {
     "page": "https://elettricista-padova.it/blog/come-scegliere-elettricista",
@@ -29,6 +43,13 @@
   },
   {
     "page": "https://elettricista-padova.it/blog/quando-chiamare-pronto-intervento-elettricista",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 4
+  },
+  {
+    "page": "https://elettricista-padova.it/blog/quanto-costa-elettricista-padova",
     "clicks": 0,
     "impressions": 1,
     "ctr": 0,

@@ -1,5 +1,26 @@
 [
   {
+    "query": "abilitazione lettera b impianti elettrici",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 72
+  },
+  {
+    "query": "certificato di impianto elettrico a norma",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 96
+  },
+  {
+    "query": "certificazioni impianti obbligatorie",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 77
+  },
+  {
     "query": "costo chiamata elettricista",
     "clicks": 0,
     "impressions": 1,
@@ -35,11 +56,18 @@
     "position": 9.8
   },
   {
+    "query": "elettricista parma pronto intervento",
+    "clicks": 0,
+    "impressions": 11,
+    "ctr": 0,
+    "position": 14.6
+  },
+  {
     "query": "elettricista pronto intervento padova",
     "clicks": 0,
-    "impressions": 184,
+    "impressions": 186,
     "ctr": 0,
-    "position": 93.0
+    "position": 92.7
   },
   {
     "query": "elettricisti padova",
@@ -63,6 +91,13 @@
     "position": 98
   },
   {
+    "query": "obbligo certificazione impianto elettrico",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 84
+  },
+  {
     "query": "progettazione cablaggio reti dati padova",
     "clicks": 0,
     "impressions": 2,
@@ -72,9 +107,9 @@
   {
     "query": "pronto intervento elettricista padova",
     "clicks": 0,
-    "impressions": 50,
+    "impressions": 54,
     "ctr": 0,
-    "position": 73.2
+    "position": 71.3
   },
   {
     "query": "pronto intervento elettricista parma",
@@ -82,5 +117,12 @@
     "impressions": 3,
     "ctr": 0,
     "position": 35.7
+  },
+  {
+    "query": "pronto intervento parma",
+    "clicks": 0,
+    "impressions": 1,
+    "ctr": 0,
+    "position": 83
   }
 ]
