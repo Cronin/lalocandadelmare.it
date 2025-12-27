@@ -1,3 +1,6 @@
+'use client';
+
+import PhoneLink from '@/app/components/PhoneLink';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -26,9 +29,9 @@ export default function BlogPost() {
           <div className="mt-12 bg-gradient-to-br from-primary-600 to-primary-800 rounded-2xl p-8 text-white text-center">
             <h3 className="text-white mb-4">Hai Bisogno di un Professionista?</h3>
             <p className="text-xl mb-6">Contattaci per un preventivo gratuito e senza impegno.</p>
-            <a href="tel:+393519898686" className="btn-accent text-xl py-4 px-10">
+            <PhoneLink phone="+393519898686" location="blog_post" className="btn-accent text-xl py-4 px-10">
               Chiama: 351 989 8686
-            </a>
+            </PhoneLink>
           </div>
 
           <div className="mt-12 text-center">
