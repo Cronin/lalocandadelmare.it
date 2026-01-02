@@ -1,4 +1,4 @@
-'use client';
+
 
 import PhoneLink from '@/app/components/PhoneLink';
 import type { Metadata } from 'next';
