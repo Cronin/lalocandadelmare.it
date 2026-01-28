@@ -56,6 +56,11 @@ self.__SERVER_FILES_MANIFEST={
           "protocol": "https",
           "hostname": "res.cloudinary.com",
           "pathname": "/**"
+        },
+        {
+          "protocol": "https",
+          "hostname": "upload.wikimedia.org",
+          "pathname": "/**"
         }
       ],
       "qualities": [

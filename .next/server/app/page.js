@@ -1,6 +1,5 @@
 var R=require("../chunks/ssr/[turbopack]_runtime.js")("server/app/page.js")
-R.c("server/chunks/ssr/[root-of-the-server]__b32d7311._.js")
-R.c("server/chunks/ssr/sites_lalocandadelmare_it_8fc9e596._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__c874bb53._.js")
 R.c("server/chunks/ssr/e5973_next_dist_5f95a26c._.js")
 R.c("server/chunks/ssr/sites_lalocandadelmare_it_714a3d07._.js")
 R.c("server/chunks/ssr/[root-of-the-server]__6ab2a24d._.js")
