@@ -1,6 +1,6 @@
 var R=require("../../chunks/[turbopack]_runtime.js")("server/app/robots.txt/route.js")
-R.c("server/chunks/[root-of-the-server]__fb97f64d._.js")
-R.c("server/chunks/[root-of-the-server]__d621f389._.js")
-R.c("server/chunks/74dfc_it__next-internal_server_app_robots_txt_route_actions_d7829b3b.js")
-R.m(19979)
-module.exports=R.m(19979).exports
+R.c("server/chunks/[root-of-the-server]__08641fba._.js")
+R.c("server/chunks/[root-of-the-server]__f0a0c3ff._.js")
+R.c("server/chunks/9f033_lalocandadelmare_it__next-internal_server_app_robots_txt_route_actions_89f04cff.js")
+R.m(21083)
+module.exports=R.m(21083).exports

@@ -1,3 +1,0 @@
-module.exports=[93695,(a,b,c)=>{b.exports=a.x("next/dist/shared/lib/no-fallback-error.external.js",()=>require("next/dist/shared/lib/no-fallback-error.external.js"))},3548,a=>{a.n(a.i(91636))},68335,a=>{a.n(a.i(51243))},40843,a=>{a.n(a.i(60211))},99643,a=>{a.n(a.i(84857))},82819,a=>{a.n(a.i(30400))},6329,(a,b,c)=>{let d=Error("Could not parse module '[project]/sites/elettricista-padova.it/app/page.tsx'\n\nExpected '...', got '}'");throw d.code="MODULE_UNPARSABLE",d}];
-
-//# sourceMappingURL=%5Broot-of-the-server%5D__fb8d3593._.js.map

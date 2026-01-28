@@ -1,3 +1,0 @@
-module.exports=[68251,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(16970);a.n(d("[project]/sites/elettricista-padova.it/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},95104,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(16970);a.n(d("[project]/sites/elettricista-padova.it/node_modules/next/dist/client/components/builtin/global-error.js"))},30400,a=>{"use strict";a.i(68251);var b=a.i(95104);a.n(b)}];
-
-//# sourceMappingURL=fb0a2_next_dist_client_components_builtin_global-error_b283b7a9.js.map

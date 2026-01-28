@@ -1,0 +1,3 @@
+module.exports=[18614,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(82967);a.n(d("[project]/sites/lalocandadelmare.it/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},3976,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(82967);a.n(d("[project]/sites/lalocandadelmare.it/node_modules/next/dist/client/components/builtin/global-error.js"))},33582,a=>{"use strict";a.i(18614);var b=a.i(3976);a.n(b)}];
+
+//# sourceMappingURL=e5973_next_dist_client_components_builtin_global-error_729da2d9.js.map
