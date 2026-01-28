@@ -1,19 +1,19 @@
 {
   "date_range": {
-    "start": "2024-08-26",
-    "end": "2025-12-19",
+    "start": "2024-10-04",
+    "end": "2026-01-27",
     "days": 481
   },
   "totals": {
     "clicks": 2,
-    "impressions": 1602,
+    "impressions": 1698,
     "ctr": 0.12,
-    "position": 32.0
+    "position": 31.2
   },
   "counts": {
-    "performance_rows": 274,
-    "total_queries": 18,
+    "performance_rows": 313,
+    "total_queries": 19,
     "total_pages": 8
   },
-  "last_updated": "2025-12-20T00:00:36.216364"
+  "last_updated": "2026-01-28T09:26:13.067523"
 }

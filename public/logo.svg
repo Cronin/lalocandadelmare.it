@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" fill="none">
+  <!-- Anchor background -->
+  <g opacity="0.15">
+    <path d="M340 40 L340 120 M320 110 Q340 130 360 110" stroke="currentColor" stroke-width="3" fill="none"/>
+    <circle cx="340" cy="35" r="8" stroke="currentColor" stroke-width="3" fill="none"/>
+    <path d="M310 120 L320 110 L320 135 L310 145 M350 120 L360 110 L360 135 L370 145" stroke="currentColor" stroke-width="3"/>
+  </g>
+
+  <!-- Text: La Locanda -->
+  <text x="200" y="80" font-family="'Brush Script MT', cursive" font-size="48" fill="currentColor" text-anchor="middle" font-style="italic">
+    La Locanda
+  </text>
+
+  <!-- Text: del Mare -->
+  <text x="200" y="130" font-family="'Brush Script MT', cursive" font-size="42" fill="currentColor" text-anchor="middle" font-style="italic">
+    del Mare
+  </text>
+
+  <!-- Decorative waves -->
+  <path d="M 60 140 Q 80 135 100 140 T 140 140" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M 260 140 Q 280 135 300 140 T 340 140" stroke="currentColor" stroke-width="1.5" fill="none" opacity="0.4"/>
+</svg>

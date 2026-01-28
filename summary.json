@@ -1,0 +1,19 @@
+{
+  "date_range": {
+    "start": "2025-10-13",
+    "end": "2026-01-11",
+    "days": 90
+  },
+  "totals": {
+    "clicks": 2,
+    "impressions": 234,
+    "ctr": 0.85,
+    "position": 17.7
+  },
+  "counts": {
+    "performance_rows": 89,
+    "total_queries": 13,
+    "total_pages": 8
+  },
+  "last_updated": "2026-01-11T15:11:03.181138"
+}

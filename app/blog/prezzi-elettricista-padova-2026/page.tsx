@@ -25,6 +25,17 @@ export default function BlogPost() {
           {/* Table of Contents */}
           <nav className="mb-12 p-6 bg-gray-50 rounded-xl">
             <h2 className="text-xl font-bold text-gray-900 mb-4">Indice</h2>
+          {/* Immagine articolo */}
+          <figure className="my-8">
+            <img
+              src="/blog/prezzi-elettricista-padova-2026-2.jpg"
+              alt="Immagine illustrativa"
+              className="rounded-lg w-full"
+            />
+            <figcaption className="text-sm text-gray-500 mt-2 text-center">
+              Fonte: Kae - CC BY-SA 3.0
+            </figcaption>
+          </figure>
             <ul className="space-y-2">
               <li><a href="#tariffe-orarie" className="text-primary-600 hover:underline">Tariffe Orarie 2026</a></li>
               <li><a href="#listino-prezzi" className="text-primary-600 hover:underline">Listino Prezzi Completo</a></li>
