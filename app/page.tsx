@@ -177,7 +177,7 @@ export default function HomePage() {
           style={{ transform: `translateY(${scrollY * 0.5}px)` }}
         >
           <Image
-            src="/images/hero-sunset-terrace.jpg"
+            src="/images/hero-sunset.webp"
             alt="Terrazza sul mare al tramonto"
             fill
             className="object-cover"
@@ -370,7 +370,7 @@ export default function HomePage() {
               <div className="space-y-4">
                 <div className="relative h-48 rounded-2xl overflow-hidden shadow-xl group">
                   <Image
-                    src="/images/seafood-dish.jpg"
+                    src="/images/seafood-platter.webp"
                     alt="Piatto di pesce"
                     fill
                     className="object-cover transition-transform duration-700 group-hover:scale-110"
@@ -379,7 +379,7 @@ export default function HomePage() {
                 </div>
                 <div className="relative h-64 rounded-2xl overflow-hidden shadow-xl group">
                   <Image
-                    src="/images/antipasto-pesce.jpg"
+                    src="/images/terrace-dining.webp"
                     alt="Antipasto di mare"
                     fill
                     className="object-cover transition-transform duration-700 group-hover:scale-110"
@@ -390,7 +390,7 @@ export default function HomePage() {
               <div className="pt-8">
                 <div className="relative h-80 rounded-2xl overflow-hidden shadow-xl group">
                   <Image
-                    src="/images/hero-sunset-terrace.jpg"
+                    src="/images/hero-sunset.webp"
                     alt="Terrazza al tramonto"
                     fill
                     className="object-cover transition-transform duration-700 group-hover:scale-110"
@@ -417,7 +417,7 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-2xl group">
               <Image
-                src="/images/hero-sunset-terrace.jpg"
+                src="/images/room-seaview.webp"
                 alt="Vista mare dalla camera"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
@@ -483,10 +483,10 @@ export default function HomePage() {
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {[
-              '/images/hero-sunset-terrace.jpg',
-              '/images/seafood-dish.jpg',
-              '/images/antipasto-pesce.jpg',
-              '/images/hero-sunset-terrace.jpg',
+              '/images/hero-sunset.webp',
+              '/images/seafood-platter.webp',
+              '/images/terrace-dining.webp',
+              '/images/room-seaview.webp',
             ].map((src, i) => (
               <div
                 key={i}
